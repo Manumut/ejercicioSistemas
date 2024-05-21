@@ -8,6 +8,7 @@ public class EjercicioSistemas {
         Scanner sc = new Scanner (System.in);
         System.out.println("Hola!!");
         System.out.println("Esto es una modificacion");
+        System.out.println("Cambio del alumno B");
     }
     
 }
